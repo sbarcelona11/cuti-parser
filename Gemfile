@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'rack-test'
+gem 'pg'
+gem 'sequel'
+gem 'nokogiri'
